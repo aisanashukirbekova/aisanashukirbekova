@@ -5,11 +5,11 @@ body {
 }
 
 h1 {
-    color: black;
+    color: navy;
 }
 
 .button {
-    background-color: black;
+    background-color: navy;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -17,5 +17,5 @@ h1 {
     cursor: pointer;
 }
 .button:hover {
-    background-color: black;
+    background-color: navy;
 }
